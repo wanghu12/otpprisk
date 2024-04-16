@@ -1,0 +1,6 @@
+pandas==2.2.2
+numpy==1.26.4
+xlrd==2.0.1
+scipy==1.13.0
+yfinance==0.2.37
+copulas==0.11.0
